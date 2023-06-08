@@ -1,0 +1,19 @@
+{
+  "name": "purescript-random-type-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "purescript": "^0.15.9",
+    "ts-node": "^10.9.1"
+  }
+}
